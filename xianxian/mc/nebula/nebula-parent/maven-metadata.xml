@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>xianxian.mc.nebula</groupId>
+  <artifactId>nebula-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>dev-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200104140734</lastUpdated>
+  </versioning>
+</metadata>
